@@ -1,3 +1,4 @@
 [submodule "example_project"]
 	path = example_project
 	url = git@github.com:pprobst/example_project.git
+	branch = main
